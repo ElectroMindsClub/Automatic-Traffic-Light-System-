@@ -1,8 +1,7 @@
 # Automatic Traffic Light System Using ESP32
 
-> **© Electro Minds Club — All rights are reserved to Electro Minds Club.**  
+> **© Electro Minds Club  
 > University Mohamed El Bachir El Ibrahimi — Bordj Bou Arreridj (`#we_learn_together`)  
-> Unauthorized copying, distribution, or commercial use of this project or its files without explicit permission from Electro Minds Club is prohibited.
 
 ---
 
