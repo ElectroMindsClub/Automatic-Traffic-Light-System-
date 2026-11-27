@@ -62,8 +62,7 @@ Automatic-Traffic-Light-System/
 
 ## 3. How to Make It
 
-### Step 1: Gather Components (BOM)
-Prepare all parts listed in [`Hardware/BOM.csv`](./Hardware/BOM.csv):
+### Step 1: Gather Components 
 * 1× **ESP-32S** microcontroller board
 * 6× **LEDs** (2 Red, 2 Orange/Yellow, 2 Green)
 * 6× **220 Ω Resistors** (LED current-limiting protection)
