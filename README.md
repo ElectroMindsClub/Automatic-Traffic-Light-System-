@@ -112,4 +112,3 @@ Power the ESP32 via USB and press the push button on `GPIO 14`. Confirm the 16-s
 
 ---
 
-**All rights are reserved to Electro Minds Club.**
